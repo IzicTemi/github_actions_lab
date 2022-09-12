@@ -351,7 +351,7 @@ We have created a new pull request from the `staging-test` branch. The only purp
 
 </details>
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Deploy to a production environment based on labels</h2></summary>
 
 ### Nicely done
