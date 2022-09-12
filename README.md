@@ -91,7 +91,7 @@ For now, we'll focus on staging. We'll spin up and destroy our environment in a 
 </details>
 
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Set up an Azure environment</h2></summary>
 
 ### Nice work triggering a job on specific labels 
@@ -351,7 +351,7 @@ We have created a new pull request from the `staging-test` branch. The only purp
 
 </details>
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Deploy to a production environment based on labels</h2></summary>
 
 ### Nicely done
@@ -481,7 +481,7 @@ Great! The syntax you used tells GitHub Actions to only run that workflow when a
 
 </details>
 
-<details id=6>
+<details id=6 open>
 <summary><h2>Step 6: Production deployment</h2></summary>
 
 ### Nice work!
