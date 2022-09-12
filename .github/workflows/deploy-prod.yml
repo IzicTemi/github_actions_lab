@@ -9,8 +9,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
+  DOCKER_IMAGE_NAME: thresh-azure-ttt
+  AZURE_WEBAPP_NAME: thresh-ttt-app
 
 jobs:
   build:
